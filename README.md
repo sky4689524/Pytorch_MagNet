@@ -6,6 +6,7 @@ https://github.com/Trevillie/MagNet. The main algorithms are included in 'defens
 ## Usage
 
 'train_autoencoder.py' : train autoencoder models for defense.
+
 'defense.py' : test MagNet defense to segmentation model against adversarial attacks.
 
 simple example
